@@ -1,5 +1,4 @@
-pub const INPUT: &str = "
-cmpptgjc3qhcjxcbcqgqkxhrms
+pub const INPUT: &str = "cmpptgjc3qhcjxcbcqgqkxhrms
 9sixonefour
 eighttwo2twofour9
 7eightseveneightthree
@@ -998,5 +997,4 @@ xone44
 8twosvdmcntf1hfive393
 8gqggmssjgjfive6gvgtqhhxpmzmzrone
 two17nxbvqqdgcbjhsmdbdclnkzgbzjmcsfgnine2
-sixeightfive3sdtwo
-";
+sixeightfive3sdtwo";
